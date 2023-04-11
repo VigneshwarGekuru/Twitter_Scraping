@@ -1,6 +1,4 @@
 # Twitter_Scraping
-
-# Twitter_Scraping
 Twitter_Scraping
 
 A brief description of what this project does and who it's for....!
