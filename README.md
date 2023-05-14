@@ -27,8 +27,6 @@ To deploy this project run
 * import datetime
 * import json
 * import matplotlib.pyplot as plt
-* from wordcloud import WordCloud
-* from wordcloud import STOPWORDS
 * import pandas as pd
 * from pymongo import MongoClient
 
